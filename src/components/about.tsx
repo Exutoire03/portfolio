@@ -27,7 +27,7 @@ export default function About() {
     ];
 
     return (
-        <div className="bg-base-300 p-10 mb-1O md:mb-32">
+        <div className="bg-base-300 p-10 mb-1O md:mb-32" id="about">
             <Title title="A propos" />
            
             <div className="md:h-screen flex justify-center items-center">

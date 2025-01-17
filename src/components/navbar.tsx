@@ -13,7 +13,7 @@ const Navbar = () => {
 
             <ul className="hidden md:flex space-x-4">
                 <li>
-                    <a href="#"
+                    <a href="#home"
                        className="btn btn-sm btn-ghost"
                     >
                         Acceuil
@@ -21,7 +21,7 @@ const Navbar = () => {
                 </li>
 
                 <li>
-                    <a href="#"
+                    <a href="#about"
                        className="btn btn-sm btn-ghost"
                     >
                         A propos
@@ -29,7 +29,7 @@ const Navbar = () => {
                 </li>
 
                 <li>
-                    <a href="#"
+                    <a href="#experiences"
                        className="btn btn-sm btn-ghost"
                     >
                         Mes expériences
@@ -37,7 +37,7 @@ const Navbar = () => {
                 </li>
 
                 <li>
-                    <a href="#"
+                    <a href="#projects"
                        className="btn btn-sm btn-ghost"
                     >
                         Mes projets
