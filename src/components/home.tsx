@@ -7,12 +7,12 @@ export default function Home() {
             <div className="flex flex-col">
                 <h1 className="text-5xl md:text-6xl font-bold text-center md:text-left mt-4 md:mt-0">
                     Bonjour, <br /> je suis {" "}
-                    <span className="text-primary"> Cheikh Dev</span>
+                    <span className="text-primary"> Cheikh Ari</span>
                 </h1>
                 <p className="my-4 text-md text-center md:text-left">
-                    Je suis un dev fullstack <br />
-                    avec 05 ans d'expérience en utilisant React, <br />
-                    Tailwind CSS et Supabase.
+                    Je suis un dev front-end <br />
+                    avec 05 ans d&apos;expérience en utilisant React, <br />
+                    Tailwind CSS, Supabase et Next.js.
                 </p>
                 <a href="" className="btn btn-accent md:w-fit">
                  <Mail className="w-5 h-5" />
